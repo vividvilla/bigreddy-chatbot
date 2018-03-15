@@ -12,7 +12,7 @@ export FLASK_APP=main.py
 python -m flask run --port=8080
 ```
 
-## Google appengine(standard env installation)
+## Google appengine(standard env)
 ```
 pip install -t lib -r requirements.txt
 dev_appserver.py app.yaml
