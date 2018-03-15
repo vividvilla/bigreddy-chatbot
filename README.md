@@ -1,7 +1,7 @@
 # Bigreddy chatbot
 [Bigreddy's](https://github.com/knadh/bigreddy) pseudo-poetic ramblings on Google chat.
 
-![Sample chat screenshot](https://imgur.com/a/MUEWi)
+![Sample chat screenshot](https://raw.githubusercontent.com/vividvilla/bigreddy-chatbot/master/screenshot.png)
 
 ## Installation
 ```
