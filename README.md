@@ -1,6 +1,8 @@
 # Bigreddy chatbot
 [Bigreddy's](https://github.com/knadh/bigreddy) pseudo-poetic ramblings on Google chat.
 
+![Sample chat screenshot](https://imgur.com/a/MUEWi)
+
 ## Installation
 ```
 pip install -r requirements.txt
